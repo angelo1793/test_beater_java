@@ -103,6 +103,10 @@ public class TestBeater {
     public void setCurso(int curso) {
         this.curso = curso;
     }
+        int i;
+        for(i=1;i<5;i++){
+            System.out.println("Jeancarlos bica");
+        }
 
     public String getDe() {
         return de;
