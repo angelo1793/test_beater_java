@@ -10,11 +10,15 @@ package clases;
  * @author Jean GG joven :v
  */
 public class prueba {
-    int numero;
+    
     String palabra;
     double decimal;
     String holi;
     int moly;
+    int numero1;
+    boolean x;
+    int numero;
+    
 
     public prueba() {
         
