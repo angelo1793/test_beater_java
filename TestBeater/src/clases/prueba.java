@@ -7,7 +7,7 @@ package clases;
 
 /**
  *
- * @author Jean GG joven :v
+ * @author Jean GG joven :v , ya fue la vida
  */
 public class prueba {
     
@@ -30,11 +30,11 @@ public class prueba {
     }
 
     public prueba(int numero, String palabra, double decimal, String holi, int moly) {
+
+
+    public prueba(int numero, String palabra) {
         this.numero = numero;
         this.palabra = palabra;
-        this.decimal = decimal;
-        this.holi = holi;
-        this.moly = moly;
     }
 
     public int getNumero() {
@@ -52,6 +52,7 @@ public class prueba {
     public void setPalabra(String palabra) {
         this.palabra = palabra;
     }
+<<<<<<< HEAD
 
     public double getDecimal() {
         return decimal;
@@ -78,4 +79,6 @@ public class prueba {
     }
     
     
+=======
+>>>>>>> Jhonatan
 }

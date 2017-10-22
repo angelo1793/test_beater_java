@@ -1,23 +1,17 @@
 
+
 package testbeater;
-
-
 public class TestBeater {
     int Monica;
     String asi;
     int no;
     String vas;
     int a;
-    String pasar;
-    String el;
-    int curso;
-    String de;
-    int web;
-    String integrado;
+
 
     public static void main(String[] args) {
         // TODO code application logic here
-        
+
         System.out.println("Jeancarlos bica");
         System.out.println("Hola JotaC");
         System.out.println("MIREN EL CONSTRUCTOR XD");
@@ -26,18 +20,12 @@ public class TestBeater {
     public TestBeater() {
     }
 
-    public TestBeater(int monica, String asi, int no, String vas, int a, String pasar, String el, int curso, String de, int web, String integrado) {
+    public TestBeater(int monica, String asi, int no, String vas, int a) {
         Monica = monica;
         this.asi = asi;
         this.no = no;
         this.vas = vas;
         this.a = a;
-        this.pasar = pasar;
-        this.el = el;
-        this.curso = curso;
-        this.de = de;
-        this.web = web;
-        this.integrado = integrado;
     }
 
     public int getMonica() {
@@ -139,4 +127,6 @@ public class TestBeater {
     }
     //Este es un comentario muy sad esperando que todo salga bien
 
+
 }
+
