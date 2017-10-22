@@ -22,5 +22,10 @@ public class TestBeater {
         
 
     }
+   
+    public int nacimiento(int edad){
+        int nac = 2017- edad;
+        return nac;
+    }
     
 }
