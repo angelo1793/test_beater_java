@@ -17,7 +17,7 @@ public class TestBeater {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        System.out.println("Hola mundo que hace");
+        System.out.println("Jeancarlos bica");
     }
     
 }
