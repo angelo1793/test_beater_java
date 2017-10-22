@@ -7,12 +7,63 @@ package clases;
 
 /**
  *
- * @author Jean
+ * @author Jean GG joven :v
  */
 public class prueba {
     int numero;
     String palabra;
     double decimal;
-    
-    
+    String holi;
+    int moly;
+
+    public prueba() {
+    }
+
+    public prueba(int numero, String palabra, double decimal, String holi, int moly) {
+        this.numero = numero;
+        this.palabra = palabra;
+        this.decimal = decimal;
+        this.holi = holi;
+        this.moly = moly;
+    }
+
+    public int getNumero() {
+        return numero;
+    }
+
+    public void setNumero(int numero) {
+        this.numero = numero;
+    }
+
+    public String getPalabra() {
+        return palabra;
+    }
+
+    public void setPalabra(String palabra) {
+        this.palabra = palabra;
+    }
+
+    public double getDecimal() {
+        return decimal;
+    }
+
+    public void setDecimal(double decimal) {
+        this.decimal = decimal;
+    }
+
+    public String getHoli() {
+        return holi;
+    }
+
+    public void setHoli(String holi) {
+        this.holi = holi;
+    }
+
+    public int getMoly() {
+        return moly;
+    }
+
+    public void setMoly(int moly) {
+        this.moly = moly;
+    }
 }
