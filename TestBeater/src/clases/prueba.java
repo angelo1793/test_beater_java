@@ -52,7 +52,6 @@ public class prueba {
     public void setPalabra(String palabra) {
         this.palabra = palabra;
     }
-<<<<<<< HEAD
 
     public double getDecimal() {
         return decimal;
@@ -77,8 +76,5 @@ public class prueba {
     public void setMoly(int moly) {
         this.moly = moly;
     }
-    
-    
-=======
->>>>>>> Jhonatan
+
 }
