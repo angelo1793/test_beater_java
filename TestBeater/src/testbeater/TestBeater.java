@@ -3,7 +3,7 @@ package testbeater;
 
 /**
  *
- * @author Jean
+ * 
  */
 public class TestBeater {
 
