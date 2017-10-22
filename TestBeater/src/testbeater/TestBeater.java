@@ -19,7 +19,7 @@ public class TestBeater {
         // TODO code application logic here
         
         System.out.println("Jeancarlos bica");
-        System.out.println("Hola JC");
+        System.out.println("Hola JotaC");
         System.out.println("MIREN EL CONSTRUCTOR XD");
     }
 
@@ -133,8 +133,9 @@ public class TestBeater {
     }
 
     public int nacimiento(int edad){
-        int nac = 2017- edad;
+        int nac = 2018- edad;
         return nac;
+        
     }
 
 }

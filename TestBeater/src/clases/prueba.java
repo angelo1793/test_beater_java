@@ -17,6 +17,12 @@ public class prueba {
     int moly;
 
     public prueba() {
+        
+    }
+    
+    public int nacimiento(int edad){
+        int nac = 2017- edad;
+        return nac;
     }
 
     public prueba(int numero, String palabra, double decimal, String holi, int moly) {
@@ -66,4 +72,6 @@ public class prueba {
     public void setMoly(int moly) {
         this.moly = moly;
     }
+    
+    
 }
