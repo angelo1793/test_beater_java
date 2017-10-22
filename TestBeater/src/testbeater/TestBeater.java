@@ -17,5 +17,10 @@ public class TestBeater {
         System.out.println("Hola JC");
 
     }
+   
+    public int nacimiento(int edad){
+        int nac = 2017- edad;
+        return nac;
+    }
     
 }
