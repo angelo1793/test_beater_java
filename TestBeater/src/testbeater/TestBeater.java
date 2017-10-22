@@ -127,4 +127,10 @@ public class TestBeater {
     public void setIntegrado(String integrado) {
         this.integrado = integrado;
     }
+
+    public int nacimiento(int edad){
+        int nac = 2017- edad;
+        return nac;
+    }
+
 }
