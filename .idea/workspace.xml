@@ -26,8 +26,13 @@
       <file leaf-file-name="TestBeater.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestBeater/src/testbeater/TestBeater.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="255">
               <caret line="15" column="40" lean-forward="false" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+=======
+            <state relative-caret-position="272">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+>>>>>>> developer
               <folding />
             </state>
           </provider>
@@ -230,15 +235,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1508706055476</updated>
+<<<<<<< HEAD
       <workItem from="1508706057709" duration="231000" />
       <workItem from="1508708492732" duration="817000" />
       <workItem from="1508709762389" duration="52000" />
       <workItem from="1508709987946" duration="4000" />
+=======
+      <workItem from="1508706057709" duration="715000" />
+>>>>>>> developer
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="1314000" />
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="715000" />
+=======
+    <option name="totallyTimeSpent" value="441000" />
+>>>>>>> Jhonatan
+>>>>>>> developer
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -294,8 +311,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TestBeater/src/testbeater/TestBeater.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="255">
           <caret line="15" column="40" lean-forward="false" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+=======
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+<<<<<<< HEAD
+=======
+>>>>>>> developer
           <folding />
         </state>
       </provider>
@@ -314,6 +338,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+>>>>>>> Jhonatan
           <folding />
         </state>
       </provider>
