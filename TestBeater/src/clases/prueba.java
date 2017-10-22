@@ -7,24 +7,15 @@ package clases;
 
 /**
  *
- * @author Jean GG joven :v
+ * @author Jean GG joven :v , ya fue la vida
  */
 public class prueba {
     int numero;
     String palabra;
-    double decimal;
-    String holi;
-    int moly;
 
-    public prueba() {
-    }
-
-    public prueba(int numero, String palabra, double decimal, String holi, int moly) {
+    public prueba(int numero, String palabra) {
         this.numero = numero;
         this.palabra = palabra;
-        this.decimal = decimal;
-        this.holi = holi;
-        this.moly = moly;
     }
 
     public int getNumero() {
@@ -41,29 +32,5 @@ public class prueba {
 
     public void setPalabra(String palabra) {
         this.palabra = palabra;
-    }
-
-    public double getDecimal() {
-        return decimal;
-    }
-
-    public void setDecimal(double decimal) {
-        this.decimal = decimal;
-    }
-
-    public String getHoli() {
-        return holi;
-    }
-
-    public void setHoli(String holi) {
-        this.holi = holi;
-    }
-
-    public int getMoly() {
-        return moly;
-    }
-
-    public void setMoly(int moly) {
-        this.moly = moly;
     }
 }
