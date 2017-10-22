@@ -15,6 +15,11 @@ public class TestBeater {
         
         System.out.println("Jeancarlos bica");
         System.out.println("Hola JC");
+        int i;
+        for(i=1;i<5;i++){
+            System.out.println("Jeancarlos bica");
+        }
+        
 
     }
     
