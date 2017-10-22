@@ -14,6 +14,7 @@ public class TestBeater {
         // TODO code application logic here
         
         System.out.println("Jeancarlos bica");
+        System.out.println("Hola JC");
 
     }
     
