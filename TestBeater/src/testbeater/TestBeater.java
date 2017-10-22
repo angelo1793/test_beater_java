@@ -7,7 +7,7 @@ package testbeater;
 
 /**
  *
- * @author Jean
+ * 
  */
 public class TestBeater {
 
@@ -18,6 +18,7 @@ public class TestBeater {
         // TODO code application logic here
         
         System.out.println("Jeancarlos bica");
+        //Este es un comentario mientras trabamos en archivos paralelos por separado
     }
     
 }
